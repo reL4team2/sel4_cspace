@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["arch","compatibility","deps","interface"]};

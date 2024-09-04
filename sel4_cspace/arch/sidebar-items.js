@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CapTag"],"fn":["arch_mask_cap_rights","arch_same_object_as","arch_same_region_as"],"struct":["cap_t"]};
